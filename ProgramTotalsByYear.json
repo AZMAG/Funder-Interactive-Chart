@@ -3,48 +3,72 @@
    "Program": "Prevention",
    "year1": 4755000,
    "year2": 4425000,
-   "year3": 7105000
+   "year3": 7105000,
+   "year1target": 4735000,
+   "year2target": 4405000,
+   "year3target": 7085000
  },
  {
    "Program": "Flexible Funding",
    "year1": 3000000,
    "year2": 0,
-   "year3": 3000000
+   "year3": 3000000,
+   "year1target": 3500000,
+   "year2target": 500000,
+   "year3target": 3500000
  },
  {
    "Program": "Outreach",
    "year1": 24800000,
    "year2": 27900000,
-   "year3": 12000000
+   "year3": 12000000,
+   "year1target": 24800000,
+   "year2target": 27900000,
+   "year3target": 12000000
  },
  {
    "Program": "Emergency Shelter",
    "year1": 6000000,
    "year2": 5200000,
-   "year3": 6300000
+   "year3": 6300000,
+   "year1target": 6500000,
+   "year2target": 5700000,
+   "year3target": 6800000
  },
  {
    "Program": "Transitional Housing",
    "year1": 3000000,
    "year2": 2000000,
-   "year3": 7500000
+   "year3": 7500000,
+   "year1target": 2900000,
+   "year2target": 1900000,
+   "year3target": 7400000
  },
  {
    "Program": "Rapid Rehousing",
    "year1": 15000000,
    "year2": 11850000,
-   "year3": 14650000
+   "year3": 14650000,
+   "year1target": 15000000,
+   "year2target": 11850000,
+   "year3target": 14650000
  },
  {
    "Program": "Permanent Supportive Housing",
    "year1": 30000000,
    "year2": 31000000,
-   "year3": 30000000
+   "year3": 30000000,
+   "year1target": 29800000,
+   "year2target": 30800000,
+   "year3target": 29800000
  },
  {
    "Program": "Services*",
    "year1": 1500000,
    "year2": 1300000,
-   "year3": 4350000
+   "year3": 4350000,
+   "year1target": 1500000,
+   "year2target": 1300000,
+   "year3target": 4350000
  }
 ]

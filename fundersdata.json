@@ -6,12 +6,10 @@
    "State": "",
    "Local": 229854406,
    "Foundations": 914000,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 230768406,
    "Target": ""
-},
+ },
  {
    "Program": "Flexible Funding",
    "Year": "July 2021 - June 2022",
@@ -19,12 +17,10 @@
    "State": "",
    "Local": 3100000,
    "Foundations": 125000,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 3225000,
    "Target": ""
-},
+ },
  {
    "Program": "Outreach",
    "Year": "July 2021 - June 2022",
@@ -32,12 +28,10 @@
    "State": "",
    "Local": 14860251,
    "Foundations": 0,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 14860251,
    "Target": ""
-},
+ },
  {
    "Program": "Temporary Housing",
    "Year": "July 2021 - June 2022",
@@ -45,12 +39,10 @@
    "State": "",
    "Local": 77722150,
    "Foundations": 550000,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 78272150,
    "Target": ""
-},
+ },
  {
    "Program": "Rapid Rehousing",
    "Year": "July 2021 - June 2022",
@@ -58,12 +50,10 @@
    "State": "",
    "Local": 12092256,
    "Foundations": 0,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 15154125,
    "Target": ""
-},
+ },
  {
    "Program": "Permanent Supportive Housing",
    "Year": "July 2021 - June 2022",
@@ -71,12 +61,10 @@
    "State": "",
    "Local": 12164026,
    "Foundations": 0,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 40045493,
    "Target": ""
-},
+ },
  {
    "Program": "Affordable Housing",
    "Year": "July 2021 - June 2022",
@@ -84,12 +72,10 @@
    "State": "",
    "Local": 37335926,
    "Foundations": 0,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 37335926,
    "Target": ""
-},
+ },
  {
    "Program": "Capacity Building",
    "Year": "July 2021 - June 2022",
@@ -97,12 +83,10 @@
    "State": "",
    "Local": 0,
    "Foundations": 1891875,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 2732114,
    "Target": ""
-},
+ },
  {
    "Program": "Services*",
    "Year": "July 2021 - June 2022",
@@ -110,12 +94,10 @@
    "State": "",
    "Local": 34315182,
    "Foundations": 467500,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 36038761,
    "Target": ""
-},
+ },
  {
    "Program": "Prevention",
    "Year": "July 2022 - June 2023",
@@ -123,12 +105,10 @@
    "State": "",
    "Local": 63128549,
    "Foundations": 651000,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 63779549,
    "Target": ""
-},
+ },
  {
    "Program": "Flexible Funding",
    "Year": "July 2022 - June 2023",
@@ -136,12 +116,10 @@
    "State": "",
    "Local": 200000,
    "Foundations": 313170,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 513170,
    "Target": ""
-},
+ },
  {
    "Program": "Outreach",
    "Year": "July 2022 - June 2023",
@@ -149,12 +127,10 @@
    "State": "",
    "Local": 9887404,
    "Foundations": 0,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 9887404,
    "Target": ""
-},
+ },
  {
    "Program": "Temporary Housing",
    "Year": "July 2022 - June 2023",
@@ -162,12 +138,10 @@
    "State": "",
    "Local": 83640336,
    "Foundations": 2502561,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 86142897,
    "Target": ""
-},
+ },
  {
    "Program": "Rapid Rehousing",
    "Year": "July 2022 - June 2023",
@@ -175,12 +149,10 @@
    "State": "",
    "Local": 6691938,
    "Foundations": 71775,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 10386410,
    "Target": ""
-},
+ },
  {
    "Program": "Permanent Supportive Housing",
    "Year": "July 2022 - June 2023",
@@ -188,12 +160,10 @@
    "State": "",
    "Local": 8435946,
    "Foundations": 100000,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 38198130,
    "Target": ""
-},
+ },
  {
    "Program": "Affordable Housing",
    "Year": "July 2022 - June 2023",
@@ -201,12 +171,10 @@
    "State": "",
    "Local": 23621645,
    "Foundations": 0,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 23621645,
    "Target": ""
-},
+ },
  {
    "Program": "Capacity Building",
    "Year": "July 2022 - June 2023",
@@ -214,12 +182,10 @@
    "State": "",
    "Local": 3600000,
    "Foundations": 3004500,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 7570482,
    "Target": ""
-},
+ },
  {
    "Program": "Services*",
    "Year": "July 2022 - June 2023",
@@ -227,12 +193,10 @@
    "State": "",
    "Local": 20395493,
    "Foundations": 1238189,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 23109761,
    "Target": ""
-},
+ },
  {
    "Program": "Prevention",
    "Year": "July 2023 - June 2024",
@@ -240,12 +204,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Flexible Funding",
    "Year": "July 2023 - June 2024",
@@ -253,12 +215,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Outreach",
    "Year": "July 2023 - June 2024",
@@ -266,12 +226,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Temporary Housing",
    "Year": "July 2023 - June 2024",
@@ -279,12 +237,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Rapid Rehousing",
    "Year": "July 2023 - June 2024",
@@ -292,12 +248,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Permanent Supportive Housing",
    "Year": "July 2023 - June 2024",
@@ -305,12 +259,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Affordable Housing",
    "Year": "July 2023 - June 2024",
@@ -318,12 +270,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Capacity Building",
    "Year": "July 2023 - June 2024",
@@ -331,12 +281,10 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-},
+ },
  {
    "Program": "Services*",
    "Year": "July 2023 - June 2024",
@@ -344,10 +292,8 @@
    "State": "",
    "Local": null,
    "Foundations": null,
-   "Businesses": {
-      "IDA": 0
-   },
+   "BusinessesIDA": 0,
    "Total": 0,
    "Target": ""
-}
+ }
 ]
